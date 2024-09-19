@@ -67,4 +67,5 @@ By using Jira, teams can streamline project management, collaborate more effecti
 
 
 Refer to the below video link for a better understanding and a quick and simple demonstration 
-https://www.youtube.com/watch?v=uM_m6EzMg3k
+
+#### https://www.youtube.com/watch?v=uM_m6EzMg3k
