@@ -64,3 +64,7 @@ Jira facilitates communication and collaboration:
 ---
 
 By using Jira, teams can streamline project management, collaborate more effectively, and track bugs/issues efficiently, ensuring that projects stay on track and of high quality.
+
+
+Refer to the below video link for a better understanding and a quick and simple demonstration 
+https://www.youtube.com/watch?v=uM_m6EzMg3k
